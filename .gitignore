@@ -12,6 +12,9 @@
 *.so
 *.dylib
 
+# Compiled Java files
+*.class
+
 # Build directories
 build/
 bin/
